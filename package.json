@@ -1,0 +1,22 @@
+{
+  "name": "codethon-2019",
+  "version": "1.0.0",
+  "description": "codethon challenge 2019",
+  "main": "shortestPath.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/suraj1327/codethon-2019.git"
+  },
+  "author": "suraj1327",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/suraj1327/codethon-2019/issues"
+  },
+  "homepage": "https://github.com/suraj1327/codethon-2019#readme",
+  "dependencies": {
+    "object.fromentries": "^2.0.1"
+  }
+}
